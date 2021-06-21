@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\APP.NET.exe
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\APP.NET.deps.json
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\APP.NET.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\APP.NET.runtimeconfig.dev.json
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\APP.NET.dll
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\ref\APP.NET.dll
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\bin\Debug\net5.0\APP.NET.pdb
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.dll
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\ref\APP.NET.dll
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.pdb
+C:\Users\T-Gamer\Documents\Cursos\Bootcamp-Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\APP.NET\obj\Debug\net5.0\APP.NET.genruntimeconfig.cache
